@@ -2,8 +2,8 @@ name : Un workflow pour mon fichier Hello World
 sur : push
 jobs :
    build :
-     nom : l' action Hello world 
-    s'exécute : ubuntu-dernières 
+     nom : l'n Hello wold 
+    s'exécute : ubuntu-dernière 
     étapes :
       - utilise : actions / checkout @ v1 
       - utilise : ./action-a 
