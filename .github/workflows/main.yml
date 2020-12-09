@@ -3,7 +3,7 @@ sur : push
 jobs :
    build :
      nom : l'action Hello wold 
-    s'exécute : ubuntu-dernière 
+s'exécute : ubuntu-dernières
     étapes :
       - utilise : actions / checkout @ v1 
       - utilise : ./action-a 
